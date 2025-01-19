@@ -19,10 +19,12 @@ python3 main.py
 
 ### Controls
 
+```
 W - Move forwards
 S - Move backwards
 A - Rotate counter-clockwise
 D - Rotate clockwise
+```
 
 ## About
 
